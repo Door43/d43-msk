@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[msk:home|Door43 (msk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-msk|d43-msk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-msk/archive/master.zip|d43-msk.zip]]
+
+**Recent Changes**
+{{changes>ns = msk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/msk|Ethnologue data]]
+
